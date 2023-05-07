@@ -18,6 +18,14 @@ public class Condic {
 
         System.out.println(status);
         
+        int c, d;
+
+        c = 15;
+        d = 1;
+
+        String resultado = c==d ? "igual" : "diferente";
+
+        System.out.println(resultado);
     }
     
 }
