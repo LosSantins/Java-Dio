@@ -13,5 +13,17 @@ public class Tipos_Variaveis {
         number = number * -1;
 
         System.out.println(number);
+    
+            while (true) {
+                
+                if (number == 1000) {
+                    break;
+                }
+                
+                number ++;
+
+                System.out.println(number);
+            }
+    
     }
 }
