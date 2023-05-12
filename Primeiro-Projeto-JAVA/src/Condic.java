@@ -20,7 +20,7 @@ public class Condic {
         
         int c, d;
 
-        c = 15;
+        c = 15 ;
         d = 1;
 
         String resultado = c==d ? "igual" : "diferente";
